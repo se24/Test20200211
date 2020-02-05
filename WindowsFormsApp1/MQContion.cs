@@ -36,6 +36,7 @@ namespace WindowsFormsApp1
         /// Creator:SE24,Date:2020-2-5 14:54:45
         /// SE7 Date:2020-2-5 14:54:45
         ///SE2 Date 20200205 15：46
+        /// SE7 Date:2020-2-5 16:18
         /// </summary>
         public void se24Test(){
             String Temp1 = "开始";
