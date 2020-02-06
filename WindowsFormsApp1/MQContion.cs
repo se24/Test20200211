@@ -49,6 +49,7 @@ namespace WindowsFormsApp1
         public void TestVoid1()
         {
             String Temp1 = "1111";
+            String Temp2 = "1111";
         }
         
        
