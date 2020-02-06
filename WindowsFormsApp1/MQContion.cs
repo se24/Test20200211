@@ -42,6 +42,15 @@ namespace WindowsFormsApp1
             String Temp1 = "开始";
         }
         
+        /// <summary>
+        /// Creator:SE24,Date:2020-2-6 17:14:57
+        /// 创建测试方法1
+        /// </summary>
+        public void TestVoid1()
+        {
+            String Temp1 = "1111";
+        }
+        
        
     }
 }
