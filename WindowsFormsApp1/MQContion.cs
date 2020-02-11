@@ -41,7 +41,7 @@ namespace WindowsFormsApp1
         public void se24Test(){
             String Temp1 = "开始";
 
-
+            String Temp2 = "测试";
         }
         
         /// <summary>
